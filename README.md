@@ -2,6 +2,10 @@
 
 This folder contains the source code for a Google I/O 2016 codelab.
 
+## [Step-1] (tree/step-1) - Run the Sample Page
+Run as is with python -m SimpleHTTPServer
+Then Clone article.html into article.amp.html and navigate to http://localhost:8000/article.amp.html#development=1
+
 ### License
 
 ```
